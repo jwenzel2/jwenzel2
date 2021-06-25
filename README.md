@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jwenzel2
+- 👋 Hi, I’m Jeremiah Wenzel
 - 👀 I’m interested in Anything Computers
 - 🌱 I’m currently learning Computing Fundementals/Network Administration/Cybersecurity
 - 💞️ I’m looking to collaborate on various projects
